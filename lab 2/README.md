@@ -31,4 +31,12 @@ $ netstat
 
 ## Terminal Screenshots
 ### $hostname
-![]
+![](https://github.com/tnuevaes/CPE322_S23/blob/77a7d12a4ea7ca1606e271347339b685630393c4/lab%202/hostname.png)
+
+### $env
+
+### $ps
+
+### $pwd
+
+### git clone 
