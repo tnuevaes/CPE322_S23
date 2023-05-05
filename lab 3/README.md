@@ -19,7 +19,7 @@ $ py -3.11 battery.py
 $ py -3.11 documentstats.py document.txt
 ```
 
-##Console Output:
+## Console Output:
 
 ![](https://github.com/tnuevaes/CPE322_S23/blob/82aef6953ea01984a0d9c3c671b94c92c76cc9fd/lab%203/Lab3SC1.png)
 ![](https://github.com/tnuevaes/CPE322_S23/blob/82aef6953ea01984a0d9c3c671b94c92c76cc9fd/lab%203/Lab3SC2.png)
