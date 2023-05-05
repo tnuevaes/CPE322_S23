@@ -1,4 +1,4 @@
-# Lab 2 - Command Line
+# Lab 1 - GHDL and GTKWave
 - Go to the GitHub repository of Digital System Design (DSD)
 - Study VHDL and GHDL
 - Go to the GHDL folder
@@ -21,29 +21,41 @@ $ ghdl -r hello_world
 Hello world!
 ```
 
-![](https://github.com/tnuevaes/CPE322_S23/blob/77a7d12a4ea7ca1606e271347339b685630393c4/lab%202/hostname.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/2ee2d0e682a200dc44ca6cca4abfaa70a3c0294f/lab%201/Hello_world.png)
 
-### $env
+### Half Adder
 
-### $ps
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/ps1.png)
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/ps2.png)
+```
+$ ghdl -a ha.vhdl
+$ ghdl -a ha_tb.vhdl
+$ ghdl -e ha_tb
+$ ghdl -r ha_tb --vcd=ha.vcd
+ha_tb.vhdl:47:5:@5ns:(assertion error): Reached end of test
+$ gtkwave ha.vcd
+```
+![](https://github.com/tnuevaes/CPE322_S23/blob/2ee2d0e682a200dc44ca6cca4abfaa70a3c0294f/lab%201/half_adder.png)
 
-### $pwd
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/pwd.png)
+### Full Adder
+```
+$ ghdl -a adder.vhdl
+$ ghdl -a adder_tb.vhdl
+$ ghdl -e adder_tb
+$ ghdl -r adder_tb --vcd=adder.vcd
+adder_tb.vhdl:54:5:@8ns(assertion note): end of test
+$ gtkwave adder.vcd
+```
+![](https://github.com/tnuevaes/CPE322_S23/blob/2ee2d0e682a200dc44ca6cca4abfaa70a3c0294f/lab%201/full_adder.png)
 
-### git clone 
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/gitclone.png)
 
-### cd iot
-### ls iot
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/cd+ls.png)
 
-### mkdir demo
-### cd demo
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/mkdir+cddemo.png)
+### D Flip Flop
 
-### ping localhost
-### netstat
-![](https://github.com/tnuevaes/CPE322_S23/blob/3aebae6b1f3530434a6df933bde8306df629ac27/lab%202/PingLocalhost+netstats.png)
+```
+$ ghdl -a dff.vhdl
+$ ghdl -a dff_tb.vhdl
+$ ghdl -e dff_tb
+$ ghdl -r dff_tb --vcd=dff.vcd
+$ gtkwave dff.vcd
+```
+![](https://github.com/tnuevaes/CPE322_S23/blob/2ee2d0e682a200dc44ca6cca4abfaa70a3c0294f/lab%201/dff.png)
 
