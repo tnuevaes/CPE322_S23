@@ -1,4 +1,4 @@
-# Lab 5 - Paho-MQTT
+# Lab 9 - YANG
 - Study the GitHub repository Lesson 9
 - Install pyang and PlantUML
 - copy ~/iot/lesson9/intrusiondetection.yang to ~/demo
