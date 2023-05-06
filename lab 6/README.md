@@ -17,7 +17,7 @@
 ### Screenshot
 ![](https://github.com/tnuevaes/CPE322_S23/blob/a537c169549ea77a55b6f3d789c280ffff717d49/lab%206/Hello.png)
 ### Terminal
-![](https://github.com/tnuevaes/CPE322_S23/blob/a537c169549ea77a55b6f3d789c280ffff717d49/lab%206/Hello_terminal.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/a537c169549ea77a55b6f3d789c280ffff717d49/lab%206/hello_terminal.png)
 
 ## http.js
 ### Screenshot
