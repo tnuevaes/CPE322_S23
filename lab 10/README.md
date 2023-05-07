@@ -25,9 +25,9 @@
 ![](https://github.com/tnuevaes/CPE322_S23/blob/064051972d67c9660b8916a031362a37436c1ae4/lab%2010/Terminal2_snakecoin_mine.png)
 
 ### Snakecoin Server (browser)
-![](https://github.com/tnuevaes/CPE322_S23/blob/064051972d67c9660b8916a031362a37436c1ae4/lab%2010/browswer_snakecoinserver.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/064051972d67c9660b8916a031362a37436c1ae4/lab%2010/browser_snakecoinserver.png)
 ### Snakecoin Mine (browser)
-![](https://github.com/tnuevaes/CPE322_S23/blob/064051972d67c9660b8916a031362a37436c1ae4/lab%2010/hash_compare.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/064051972d67c9660b8916a031362a37436c1ae4/lab%2010/browswer_snakecoinmine.png)
 
 ## Python Blockchain
 
