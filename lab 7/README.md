@@ -12,6 +12,7 @@
 ![](https://github.com/tnuevaes/CPE322_S23/blob/66aeb69d4c8b872e0c1fd01f29e8a1381f760404/lab%207/thingspeak1.png)
 ![](https://github.com/tnuevaes/CPE322_S23/blob/66aeb69d4c8b872e0c1fd01f29e8a1381f760404/lab%207/thingspeak2.png)
 ![](https://github.com/tnuevaes/CPE322_S23/blob/66aeb69d4c8b872e0c1fd01f29e8a1381f760404/lab%207/thingspeak3.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/bda09cbce87a4cdbd9ef8d732cb8dbc477e1993e/lab%207/thingspeak4.png)
 
 ## CPU spreadsheet
 
