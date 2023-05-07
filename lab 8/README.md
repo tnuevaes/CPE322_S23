@@ -22,6 +22,6 @@
 
 ### Memory Availability Box plot Vertical box plot
 
-### Scatter diagram with linear regression line
+### Scatter plot with linear regression trendline
 
-### Cross-validation prediction with memory availability as target
+### Cross-validation prediction with temperature as target
