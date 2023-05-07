@@ -22,7 +22,7 @@
 
 ### browser 2 output
 
-![](https://github.com/tnuevaes/CPE322_S23/blob/aea873ff501006983a5ceb60af6293ef439a147f/lab%204/weatherstation2.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/86b24e334ad57943e467fc47f7e37fc97a913f62/lab%204/weatherstation2.png)
 
 ## MyCPU
 
