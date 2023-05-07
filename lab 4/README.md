@@ -18,7 +18,7 @@
 
 ### browser output
 
-![](https://github.com/tnuevaes/CPE322_S23/blob/aea873ff501006983a5ceb60af6293ef439a147f/lab%204/weatherstation1.png)
+![](https://github.com/tnuevaes/CPE322_S23/blob/aea873ff501006983a5ceb60af6293ef439a147f/lab%204/weatherstation.png)
 
 ### browser 2 output
 
